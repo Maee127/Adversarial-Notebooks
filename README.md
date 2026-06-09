@@ -1,2 +1,2 @@
 # Adversarial-Notebooks
-A series of articles to more study in Adversarial attacks, defences and train
+A series of articles to more study in Adversarial attacks, defenses and train
