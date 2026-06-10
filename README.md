@@ -4,7 +4,7 @@ If you're new to this work, I recommend starting with the essays in order:
 
 1. Essay #1 — The Fog of Certainty: On Deep Learning's Secret Vice (Published in Medium)
 2. Essay #2 — The Attack Landscape: Why Silence Is the Vulnerability (Published in Towards AI)
-3. Essay #3 — Walls, Shields and Illusions; Defenses and their limits(Coming soon)
+3. Essay #3 — Walls, Shields and Illusions: Defenses and their limits(Coming soon)
 4. ...
 
 # Adversarial AI: Attacks, Defenses, and Model Awareness
@@ -12,7 +12,7 @@ If you're new to this work, I recommend starting with the essays in order:
 > *The attacker adapts. The wall crumbles.
 > The researcher adapts. The question changes.*
 
-This repository accompanies an ongoing series of essays and experiments exploring **adversarial attacks, defenses, and model awareness in machine learning systems**.
+This repository accompanies an ongoing and evolving study of adversarial attacks, defenses, and model behavior — following questions as they change.
 
 It began with a simple question:
 
@@ -57,7 +57,7 @@ Read on Towards AI: https://pub.towardsai.net/the-attack-landscape-why-silence-i
 
 ---
 
-### Essay #3 — *Walls, Shields and Illusions; Defenses and their limits* *(working title)*
+### Essay #3 — *Walls, Shields and Illusions: Defenses and their limits* *(working title)*
 
 An exploration of adversarial training, defensive distillation, gradient masking, and a deeper question:
 
