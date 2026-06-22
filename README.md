@@ -4,8 +4,9 @@ If you're new to this work, I recommend starting with the essays in order:
 
 1. Essay #1 — The Fog of Certainty: On Deep Learning's Secret Vice (Published in Medium)
 2. Essay #2 — The Attack Landscape: Why Silence Is the Vulnerability (Published in Towards AI)
-3. Essay #3 — Walls, Shields and Illusions: Defenses and their limits(Coming soon)
-4. ...
+3. Essay #3 — Walls, Shields and Illusions: Defenses and their limits(Published in Towards AI)
+4. The bridge essay — Why Defenses Alone Will Never Be Enough(coming soon)
+5. ...
 
 # Adversarial AI: Attacks, Defenses, and Model Awareness
 
@@ -57,11 +58,15 @@ Read on Towards AI: https://pub.towardsai.net/the-attack-landscape-why-silence-i
 
 ---
 
-### Essay #3 — *Walls, Shields and Illusions: Defenses and their limits* *(working title)*
+### Essay #3 — *Walls, Shields and Illusions: Defenses and their limits* 
 
 An exploration of adversarial training, defensive distillation, gradient masking, and a deeper question:
 
-> **Can any defense remain unbreakable given enough computational power and knowledge of the model?** in progress...
+**Can any defense remain unbreakable given enough computational power and knowledge of the model?** 
+If every wall eventually breaks, then the entire framework of defense is built on sand.
+
+Article:
+Read on Towards AI: https://medium.com/towards-artificial-intelligence/walls-shields-and-illusions-defenses-and-their-limits-cd67b6ec4f92
 
 **Notebook(s):**
 
@@ -69,6 +74,11 @@ An exploration of adversarial training, defensive distillation, gradient masking
 
 ---
 
+### Essay bridge —  *The bridge essay (between #3 and #4)* (working title)
+
+**What if we stopped playing the attacker-defender game?**
+
+---
 ## Repository Structure
 
 ```text
@@ -76,6 +86,7 @@ An exploration of adversarial training, defensive distillation, gradient masking
 ├── essay_01/
 ├── essay_02/
 ├── essay_03/
+├── essay_bridge/
 ├── notebooks/
 └── README.md
 ```
@@ -91,4 +102,3 @@ Some questions may become more interesting than their answers.
 That is part of the process.
 
 > *“The road has been changed in every movement.”*
-
