@@ -5,8 +5,9 @@ If you're new to this work, I recommend starting with the essays in order:
 1. Essay #1 — The Fog of Certainty: On Deep Learning's Secret Vice (Published in Medium)
 2. Essay #2 — The Attack Landscape: Why Silence Is the Vulnerability (Published in Towards AI)
 3. Essay #3 — Walls, Shields and Illusions: Defenses and their limits(Published in Towards AI)
-4. The bridge essay — Why Defenses Alone Will Never Be Enough(coming soon)
-5. ...
+4. The bridge essay — The Bridge: From Resistance to Awareness, Why Defenses Alone Will Never Be Enough (Published in Medium)
+5. Essay #4 (coming soon)
+6. ....
 
 # Adversarial AI: Attacks, Defenses, and Model Awareness
 
@@ -37,8 +38,8 @@ Not “Are we vulnerable?” — but “How are we vulnerable?”
 
 An exploration of adversarial vulnerability, assumptions in model robustness, and the foundations of the questions explored throughout the series.
 
-Article:
-Read on Medium: https://medium.com/@maede.torkian/the-fog-of-certainty-on-deep-learnings-secret-vice-ed73d6ac3242
+📖 Article:
+Read on Medium: https://medium.com/@maedeh.torkian/the-fog-of-certainty-on-deep-learnings-secret-vice-ed73d6ac3242
 
 **Notebook(s):**
 * No companion notebook for this essay.
@@ -49,7 +50,7 @@ Read on Medium: https://medium.com/@maede.torkian/the-fog-of-certainty-on-deep-l
 
 A study of adversarial behavior beyond visible failures, asking whether omission, selective behavior, and silence can themselves become vulnerabilities.
 
-Article:
+📖 Article:
 Read on Towards AI: https://pub.towardsai.net/the-attack-landscape-why-silence-is-the-vulnerability-f27dabfccb9b
 
 **Notebook(s):**
@@ -65,7 +66,7 @@ An exploration of adversarial training, defensive distillation, gradient masking
 **Can any defense remain unbreakable given enough computational power and knowledge of the model?** 
 If every wall eventually breaks, then the entire framework of defense is built on sand.
 
-Article:
+📖 Article:
 Read on Towards AI: https://medium.com/towards-artificial-intelligence/walls-shields-and-illusions-defenses-and-their-limits-cd67b6ec4f92
 
 **Notebook(s):**
@@ -74,9 +75,32 @@ Read on Towards AI: https://medium.com/towards-artificial-intelligence/walls-shi
 
 ---
 
-### Essay bridge —  *The bridge essay (between #3 and #4)* (working title)
+### Essay bridge —  *The Bridge: From Resistance to Awareness* 
 
-**What if we stopped playing the attacker-defender game?**
+**Why Defenses Alone Will Never Be Enough**
+
+The bridge asks a different question.
+Instead of asking:
+
+    How can we build a stronger wall?
+
+it asks:
+
+    What if resistance alone is the wrong objective?
+
+This essay connects the study of adversarial robustness with a broader perspective: model awareness.
+It is not the conclusion of the first part of the journey.
+
+It is the path leading to the next one(Essay #4).
+
+📖 Article:
+Read on Medium: https://medium.com/@maedeh.torkian/the-bridge-from-resistance-to-awareness-58ea4156ad3f
+
+**Notebook(s):**
+* No companion notebook for this essay.
+---
+
+### Essay #4 — (working in title)
 
 ---
 ## Repository Structure
@@ -87,6 +111,7 @@ Read on Towards AI: https://medium.com/towards-artificial-intelligence/walls-shi
 ├── essay_02/
 ├── essay_03/
 ├── essay_bridge/
+├── essay_04/
 ├── notebooks/
 └── README.md
 ```
@@ -102,3 +127,5 @@ Some questions may become more interesting than their answers.
 That is part of the process.
 
 > *“The road has been changed in every movement.”*
+
+> *“Every honest question builds the next bridge.”*
