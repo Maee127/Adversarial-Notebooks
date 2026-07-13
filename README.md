@@ -6,8 +6,9 @@ If you're new to this work, I recommend starting with the essays in order:
 2. Essay #2 — The Attack Landscape: Why Silence Is the Vulnerability (Published in Towards AI)
 3. Essay #3 — Walls, Shields and Illusions: Defenses and their limits(Published in Towards AI)
 4. The bridge essay — The Bridge: From Resistance to Awareness, Why Defenses Alone Will Never Be Enough (Published in Medium)
-5. Essay #4 (coming soon)
-6. ....
+5. Essay #4 _ Learning to Say “I Don’t Know”: The First Floor of Awareness (Publish in progress)
+6. Essay #5 (coming...)
+7. ...
 
 # Adversarial AI: Attacks, Defenses, and Model Awareness
 
@@ -100,7 +101,23 @@ Read on Medium: https://medium.com/@maedeh.torkian/the-bridge-from-resistance-to
 * No companion notebook for this essay.
 ---
 
-### Essay #4 — (working in title)
+### Essay #4 — *Learning to Say “I Don’t Know”: The First Floor of Awareness*
+
+We built the voice.
+
+A decision gate — a simple, auditable rule that says: “If uncertainty is high, do not predict. Ask for help.”
+This is not a new wall. 
+**It is a voice, and it is the first floor of a structure this series will keep building on.**
+---
+
+
+📖 Article:
+Read on...
+
+**Notebook(s):**
+
+* (https://github.com/Maee127/Adversarial-Notebooks/blob/master/%234/Notebook_%234.ipynb)
+
 
 ---
 ## Repository Structure
@@ -112,6 +129,7 @@ Read on Medium: https://medium.com/@maedeh.torkian/the-bridge-from-resistance-to
 ├── essay_03/
 ├── essay_bridge/
 ├── essay_04/
+├── essay_05/
 ├── notebooks/
 └── README.md
 ```
