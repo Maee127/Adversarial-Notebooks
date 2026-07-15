@@ -107,6 +107,7 @@ We built the voice.
 
 A decision gate — a simple, auditable rule that says: “If uncertainty is high, do not predict. Ask for help.”
 This is not a new wall. 
+
 **It is a voice, and it is the first floor of a structure this series will keep building on.**
 ---
 
