@@ -6,7 +6,7 @@ If you're new to this work, I recommend starting with the essays in order:
 2. Essay #2 — The Attack Landscape: Why Silence Is the Vulnerability (Published in Towards AI)
 3. Essay #3 — Walls, Shields and Illusions: Defenses and their limits(Published in Towards AI)
 4. The bridge essay — The Bridge: From Resistance to Awareness, Why Defenses Alone Will Never Be Enough (Published in Medium)
-5. Essay #4 _ Learning to Say “I Don’t Know”: The First Floor of Awareness (Publish in progress)
+5. Essay #4 _ Learning to Say “I Don’t Know”: The First Floor of Awareness (Published in Towards AI)
 6. Essay #5 (coming...)
 7. ...
 
@@ -112,11 +112,15 @@ This is not a new wall.
 
 
 📖 Article:
-Read on...
+Read on Towards AI: https://pub.towardsai.net/learning-to-say-i-dont-know-the-first-floor-of-awareness-1a9faae389c0
 
 **Notebook(s):**
 
 * (https://github.com/Maee127/Adversarial-Notebooks/blob/master/%234/Notebook_%234.ipynb)
+
+
+---
+### Essay #5 — in progress
 
 
 ---
