@@ -109,8 +109,6 @@ A decision gate — a simple, auditable rule that says: “If uncertainty is hig
 This is not a new wall. 
 
 > **It is a voice, and it is the first floor of a structure this series will keep building on.**
----
-
 
 📖 Article:
 Read on Towards AI: https://pub.towardsai.net/learning-to-say-i-dont-know-the-first-floor-of-awareness-1a9faae389c0
