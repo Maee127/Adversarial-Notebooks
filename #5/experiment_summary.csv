@@ -1,0 +1,15 @@
+Metric,Value
+Clean Accuracy (%),80.08
+Adversarial Accuracy (%),40.59
+Accuracy Drop (%),39.49
+Clean Avg Fragility,0.1768
+Adversarial Avg Fragility,0.2562
+Fragility Increase,0.0794
+Best Threshold,0.15
+Best F1-Score,0.5830
+Gate Precision,0.5916
+Gate Recall,0.5747
+Gate Specificity,0.6033
+Flagged Samples (%),48.6
+Gate Coverage (%),51.4
+Gate Risk (%),40.8
