@@ -122,7 +122,7 @@ Read on Towards AI: https://pub.towardsai.net/learning-to-say-i-dont-know-the-fi
 ---
 ### Essay #5 — *The Geometry of Fragility: Feeling the Decision Boundary*
 
-We gave the model a voice — a way to say: “I am not sure” and “this input looks strange.
+We gave the model a voice — a way to say: “I am not sure” and “this input looks strange”.
 
 It worked — on natural data. But it failed — on adversarial data.
 
