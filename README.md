@@ -7,8 +7,9 @@ If you're new to this work, I recommend starting with the essays in order:
 3. Essay #3 — Walls, Shields and Illusions: Defenses and their limits(Published in Towards AI)
 4. The bridge essay — The Bridge: From Resistance to Awareness, Why Defenses Alone Will Never Be Enough (Published in Medium)
 5. Essay #4 _ Learning to Say “I Don’t Know”: The First Floor of Awareness (Published in Towards AI)
-6. Essay #5 (coming...)
-7. ...
+6. Essay #5 _ The Geometry of Fragility: Feeling the Decision Boundary (Published in Medium)
+7. Essay #6 _ (Coming soon...)
+8. ...
 
 # Adversarial AI: Attacks, Defenses, and Model Awareness
 
@@ -119,8 +120,26 @@ Read on Towards AI: https://pub.towardsai.net/learning-to-say-i-dont-know-the-fi
 
 
 ---
-### Essay #5 — in progress
+### Essay #5 — *The Geometry of Fragility: Feeling the Decision Boundary*
 
+We gave the model a voice — a way to say: “I am not sure” and “this input looks strange.
+
+It worked — on natural data. But it failed — on adversarial data.
+
+**That is the blind spot we must now close.**
+
+The model needs to be aware of its own geometry — not just the shape of the data distribution, but the shape of its decision boundary. 
+
+📖 Article:
+Read on Medium: https://medium.com/@maedeh.torkian/the-geometry-of-fragility-feeling-the-decision-boundary-2d1c50f402ee?sharedUserId=maedeh.torkian
+
+
+**Notebook(s):**
+
+* (https://github.com/Maee127/Adversarial-Notebooks/blob/master/%235/Notebook_5.ipynb)
+
+---
+### Essay #6 (in progress...)
 
 ---
 ## Repository Structure
@@ -133,6 +152,7 @@ Read on Towards AI: https://pub.towardsai.net/learning-to-say-i-dont-know-the-fi
 ├── essay_bridge/
 ├── essay_04/
 ├── essay_05/
+├── essay_06/
 ├── notebooks/
 └── README.md
 ```
