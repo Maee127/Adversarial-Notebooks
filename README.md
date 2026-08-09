@@ -1,3 +1,21 @@
+## Why this repository exists
+
+This repository is not a collection of notebooks.
+
+**It is a record of an evolving investigation.**
+
+Each notebook accompanies an essay.
+Each essay begins with a question.
+Each question changes the next experiment.
+
+> Some conclusions may change.
+> Some assumptions may fail.
+
+That is part of the process.
+
+**Do not ask the experiment to confirm the question.**
+**Ask it to change the question.**
+
 ## Reading Path
 
 If you're new to this work, I recommend starting with the essays in order:
