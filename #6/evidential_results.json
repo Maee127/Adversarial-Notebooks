@@ -1,0 +1,28 @@
+{
+  "clean_accuracy": 76.95,
+  "adversarial_accuracy": 22.5,
+  "clean_evidence_mean": 437.3275451660156,
+  "adversarial_evidence_mean": 124.60166931152344,
+  "clean_evidence_std": 287.8863830566406,
+  "adversarial_evidence_std": 84.42752075195312,
+  "clean_deferral_rate": 10.0,
+  "clean_deferred_accuracy": 79.80555555555556,
+  "clean_risk": 28.175,
+  "adversarial_deferral_rate": 10.0,
+  "adversarial_deferred_accuracy": 24.22222222222222,
+  "adversarial_risk": 78.2,
+  "clean_threshold": 136.7393798828125,
+  "adversarial_threshold": 39.837886810302734,
+  "num_deferred_clean": 800,
+  "num_deferred_adversarial": 800,
+  "evidence_percentiles_clean": {
+    "25th": 218.87701416015625,
+    "50th": 370.0272216796875,
+    "75th": 584.21044921875
+  },
+  "evidence_percentiles_adv": {
+    "25th": 61.747074127197266,
+    "50th": 102.3861312866211,
+    "75th": 166.02581787109375
+  }
+}
