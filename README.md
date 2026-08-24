@@ -26,8 +26,9 @@ If you're new to this work, I recommend starting with the essays in order:
 4. The bridge essay — The Bridge: From Resistance to Awareness, Why Defenses Alone Will Never Be Enough (Published in Medium)
 5. Essay #4 _ Learning to Say “I Don’t Know”: The First Floor of Awareness (Published in Towards AI)
 6. Essay #5 _ The Geometry of Fragility: Feeling the Decision Boundary (Published in Medium)
-7. Essay #6 _ (Coming soon...)
-8. ...
+7. Essay #6 _ Architectural Awareness: Building the Sensor into the Boat(Publication in progress)
+8. Essay #7 _ (Coming soon)
+9. ...
 
 # Adversarial AI: Attacks, Defenses, and Model Awareness
 
@@ -157,7 +158,31 @@ Read on Medium: https://medium.com/@maedeh.torkian/the-geometry-of-fragility-fee
 * (https://github.com/Maee127/Adversarial-Notebooks/blob/master/%235/Notebook_5.ipynb)
 
 ---
-### Essay #6 (in progress...)
+### Essay #6 _ *Architectural Awareness: Building the Sensor into the Boat*
+
+The architecture was still designed primarily to produce predictions. Awareness was added afterward, through external measurements and decision gates.
+
+Now we ask a different question:
+
+> Can we design the boat itself to be more aware?
+
+> Can uncertainty become part of the architecture rather than an external attachment?
+
+This essay explores two directions:
+
+1. **Multiple Prediction Heads** - a shared backbone with several prediction heads whose disagreement becomes an internal uncertainty signal.
+
+2. **Evidential Outputs** - a model whose output contains not only a prediction, but also an estimate of the evidence supporting that prediction.
+
+
+📖 Article:
+
+
+**Notebook(s):**
+* (https://github.com/Maee127/Adversarial-Notebooks/blob/master/%236/Notebook_6.ipynb)
+
+--- 
+### Essay #6 _ (soon...)
 
 ---
 ## Repository Structure
@@ -171,6 +196,7 @@ Read on Medium: https://medium.com/@maedeh.torkian/the-geometry-of-fragility-fee
 ├── essay_04/
 ├── essay_05/
 ├── essay_06/
+├── essay_07/
 ├── notebooks/
 └── README.md
 ```
