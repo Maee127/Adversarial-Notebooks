@@ -26,7 +26,7 @@ If you're new to this work, I recommend starting with the essays in order:
 4. The bridge essay — The Bridge: From Resistance to Awareness, Why Defenses Alone Will Never Be Enough (Published in Medium)
 5. Essay #4 _ Learning to Say “I Don’t Know”: The First Floor of Awareness (Published in Towards AI)
 6. Essay #5 _ The Geometry of Fragility: Feeling the Decision Boundary (Published in Medium)
-7. Essay #6 _ Architectural Awareness: Building the Sensor into the Boat(Publication in progress)
+7. Essay #6 _ Architectural Awareness: Building the Sensor into the Boat(Published in Medium)
 8. Essay #7 _ (Coming soon)
 9. ...
 
@@ -176,13 +176,15 @@ This essay explores two directions:
 
 
 📖 Article:
+Read on Medium: https://medium.com/@maedeh.torkian/architectural-awareness-building-the-sensor-into-the-boat-c8545beedd3c?sharedUserId=maedeh.torkian
 
 
 **Notebook(s):**
+
 * (https://github.com/Maee127/Adversarial-Notebooks/blob/master/%236/Notebook_6.ipynb)
 
 --- 
-### Essay #6 _ (soon...)
+### Essay #7 _ (soon...)
 
 ---
 ## Repository Structure
