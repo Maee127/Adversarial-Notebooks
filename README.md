@@ -368,6 +368,6 @@ That is part of the process.
 
 Applied AI & Machine Learning Engineer exploring adversarial robustness, uncertainty, and model awareness through experiments and technical writing.
 
-https://medium.com/@maedeh.torkian
+[Medium](https://medium.com/@maedeh.torkian)
 
-https://github.com/Maee127
+[GitHub](https://github.com/Maee127)
