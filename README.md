@@ -344,4 +344,30 @@ The series currently explores:
 └── README.md
 ```
 
-> ** Not knowing is not the opposite of research; Not knowing is where research begins.**
+> * Not knowing is not the opposite of research; Not knowing is where research begins.*
+
+## A Note on This Work
+
+This repository evolves alongside the essays.
+
+> Some conclusions may change.
+
+> Some assumptions may fail.
+
+> Some questions may become more interesting than their answers.
+
+That is part of the process.
+
+* “The road has been changed in every movement.” 
+
+* “Every honest question builds the next bridge.” 
+
+## Author
+
+### Maedeh Torkian
+
+Applied AI & Machine Learning Engineer exploring adversarial robustness, uncertainty, and model awareness through experiments and technical writing.
+
+https://medium.com/@maedeh.torkian
+
+https://github.com/Maee127
