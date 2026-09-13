@@ -40,6 +40,34 @@ The goal of this repository is not only to reproduce results, but to document th
 
 ---
 
+## Research Value
+
+This series is designed as a cumulative investigation rather than a collection of isolated experiments.
+
+Its value lies in connecting several reliability questions that are often studied separately:
+
+- adversarial vulnerability;
+- defensive robustness;
+- uncertainty estimation;
+- out-of-distribution detection;
+- selective prediction;
+- decision-boundary geometry;
+- architectural uncertainty signals.
+
+Each essay and notebook tests a question, records what worked and what failed, and uses that evidence to motivate the next stage of the series.
+
+The repository therefore serves as:
+
+- a reproducible record of the experimental path;
+- a technical companion to the published essays;
+- a comparison of different signals for model uncertainty and adversarial risk;
+- a study of how reliability mechanisms behave under both natural and adversarial conditions;
+- a foundation for future work on model awareness and trustworthy AI.
+
+The broader contribution of the series is not a claim that one mechanism solves adversarial robustness, but a structured attempt to understand where different forms of awareness succeed, fail, and complement one another.
+
+---
+
 ## Reading Path
 
 If you are new to the series, I recommend reading the essays in order:
@@ -346,6 +374,24 @@ The series currently explores:
 
 > * Not knowing is not the opposite of research; Not knowing is where research begins.*
 
+---
+
+## Current Limitations
+
+The experiments in this repository are research-scale studies rather than production evaluations.
+
+Important limitations include:
+
+- most experiments use benchmark datasets such as MNIST, Fashion-MNIST, and CIFAR-10;
+- conclusions may not transfer directly to larger models or real-world domains;
+- adversarial evaluation depends on the selected attacks, threat models, and hyperparameters;
+- some awareness signals remain computationally expensive or difficult to compare fairly;
+- results should be interpreted as evidence within the experimental setup, not as universal guarantees;
+- later essays may revise or challenge earlier interpretations as the investigation develops.
+
+These limitations are intentional parts of the research process and are documented rather than hidden.
+
+---
 ## A Note on This Work
 
 This repository evolves alongside the essays.
