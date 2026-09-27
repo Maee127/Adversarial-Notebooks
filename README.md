@@ -93,13 +93,13 @@ If you are new to the series, I recommend reading the essays in order:
 7. **Essay #6** — *Architectural Awareness: Building the Sensor into the Boat*  
    Published on Medium
 
-8. **Essay #7** — *Knowing the Weights: Four Bayesian Lenses on Uncertainty*
+8. **Essay #7** — *Knowing the Weights: Four Bayesian Lenses on Uncertainty*  
    Published on Medium
 
-9. **Essay #8** — *Does the Model Know Where It Looks* 
+9. **Essay #8** — *Does the Model Know Where It Looks*  
    In progress
 
-10. **Essay #9** _ 
+10. **Essay #9** _  
    Planned
 
 ---
