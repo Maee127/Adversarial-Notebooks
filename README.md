@@ -93,10 +93,13 @@ If you are new to the series, I recommend reading the essays in order:
 7. **Essay #6** — *Architectural Awareness: Building the Sensor into the Boat*  
    Published on Medium
 
-8. **Essay #7** — Bayesian Weight Priors  
-   Planned / in progress
+8. **Essay #7** — *Knowing the Weights: Four Bayesian Lenses on Uncertainty*
+   Published on Medium
 
-9. **Essay #8** — Attention Entropy  
+9. **Essay #8** — *Does the Model Know Where It Looks* 
+   In progress
+
+10. **Essay #9** _ 
    Planned
 
 ---
@@ -264,25 +267,57 @@ The results show that internal architectural signals can outperform plain confid
 
 ---
 
-### Essay #7 — *Bayesian Weight Priors*
+### Essay #7 — *Knowing the Weights: Four Bayesian Lenses on Uncertainty*
 
-Planned next direction.
+The Boat and Its Weights!
 
-The next question is whether uncertainty can be introduced even earlier — not only in predictions or evidence, but in the model parameters themselves.
+The weights are where the model stores its learned representation of the world. They are the memory of its training experience. 
+
+They determine how it transforms an input into a prediction.
+
+**Can the model know whether its own weights are reliable?**
+
+> This is the question explored in Essay #7.
+
+📖 **Article**  
+[Read on Medium](https://medium.com/@maedeh.torkian/knowing-the-weights-four-bayesian-lenses-on-uncertainty-9c6c0270d67e)
+
+**Notebook**
+- [Essay #7 Notebook](./%237/Note07_Bayesian_Uncertainty.ipynb)
 
 **Status:** Planned / in progress
 
 ---
 
-### Essay #8 — *Attention Entropy*
+### Essay #8 — *Does the Model Know Where It Looks*
+
+**The Gaze of the Boat.**
+
+> what does it mean for a signal to be decoupled from failure?
+
+Before measuring attention, we need to be precise about what the experiment does not claim. 
+
+An attention map can look like a picture of the model’s focus, but a readable mechanism is not automatically 
+
+a faithful explanation of the model’s decision.
+
+📖 **Article**  
+[Read on Medium]()
+
+**Notebook**
+- [Essay #8 Notebook](./%238/Note08_Attention_Awareness.ipynb)
+
+**Status:**  in progress
+
+---
+
+### Essay #9 — *Planned*
 
 Planned future direction.
 
-This part of the series will explore whether attention behavior can provide useful internal signals while keeping an important caution in view:
+This part of serries will explore What would it mean for a system to be honest about its own vulnerability?
 
-> **Attention is not explanation.**
-
-**Status:** Planned
+**Status:**  Planned
 
 ---
 
@@ -350,11 +385,17 @@ The series currently explores:
 - MNIST
 - Fashion-MNIST
 - CIFAR-10
+- ViT
 
 ### Adversarial Methods
 
 - FGSM
 - PGD
+- Monte Carlo Dropout
+- Deep Ensembles
+- SWAG
+- Variational Inference
+- Attention entropy
 
 ---
 
@@ -362,13 +403,16 @@ The series currently explores:
 
 ```text
 /
+├── #2/
 ├── #3/
 ├── #4/
 ├── #5/
 ├── #6/
 ├── #7/
-├── fgsm_adversarial_notebook.ipynb
-├── images/
+├── #8/
+├── docs/
+├── data/
+├── .gitattributes
 └── README.md
 ```
 
