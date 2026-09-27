@@ -285,8 +285,6 @@ They determine how it transforms an input into a prediction.
 **Notebook**
 - [Essay #7 Notebook](./%237/Note07_Bayesian_Uncertainty.ipynb)
 
-**Status:** Planned / in progress
-
 ---
 
 ### Essay #8 — *Does the Model Know Where It Looks*
