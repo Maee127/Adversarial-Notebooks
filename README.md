@@ -91,15 +91,18 @@ If you are new to the series, I recommend reading the essays in order:
    Published on Medium
 
 7. **Essay #6** — *Architectural Awareness: Building the Sensor into the Boat*  
-   Published on Medium
+   Published on Data Science Collective
 
 8. **Essay #7** — *Knowing the Weights: Four Bayesian Lenses on Uncertainty*  
    Published on Medium
 
-9. **Essay #8** — *Does the Model Know Where It Looks*  
-   In progress
+9. **Essay #8** — *Does the model know where it looks?*
+   Published on Medium
 
-10. **Essay #9** _  
+10. **Essay #9** _ *Confidently wrong: The human cost of silent failure* 
+   Published on Medium
+
+11. **Essay #10** _ 
    Planned
 
 ---
@@ -280,7 +283,7 @@ They determine how it transforms an input into a prediction.
 > This is the question explored in Essay #7.
 
 📖 **Article**  
-[Read on Medium](https://medium.com/@maedeh.torkian/knowing-the-weights-four-bayesian-lenses-on-uncertainty-9c6c0270d67e)
+[Read on Data Science Collective](https://medium.com/data-science-collective/knowing-the-weights-four-bayesian-lenses-on-uncertainty-9c6c0270d67e)
 
 **Notebook**
 - [Essay #7 Notebook](./%237/Note07_Bayesian_Uncertainty.ipynb)
@@ -300,16 +303,36 @@ An attention map can look like a picture of the model’s focus, but a readable 
 a faithful explanation of the model’s decision.
 
 📖 **Article**  
-[Read on Medium]()
+[Read on Medium](https://medium.com/@maedeh.torkian/does-the-model-know-where-it-looks-0ad64eff5e14)
 
 **Notebook**
 - [Essay #8 Notebook](./%238/Note08_Attention_Awareness.ipynb)
 
-**Status:**  in progress
+---
+
+### Essay #9 — *Confidently wrong: The human cost of silent failure*
+
+At the beginning of this series, before any sensor had been built, one question stood behind everything that followed:
+
+> How are we vulnerable?
+
+Not whether we are vulnerable. That was already known. 
+
+The harder question was how failure reaches the person who trusts the output.
+
+Eight essays later, the question has become more precise:
+
+> Can a model be made wrong while its own warning system remains quiet?
+
+📖 **Article** 
+[Read on Medium](https://medium.com/@maedeh.torkian/confidently-wrong-a0c09bfe348b)
+
+**Notebook**
+- [Essay #9 Notebook](https://github.com/Maee127/Adversarial-Notebooks/blob/master/%239/Notebook-09.ipynb)
 
 ---
 
-### Essay #9 — *Planned*
+### Essay #10 _ *Planned*
 
 Planned future direction.
 
@@ -318,7 +341,6 @@ This part of serries will explore What would it mean for a system to be honest a
 **Status:**  Planned
 
 ---
-
 ## Selected Experimental Results
 
 ### Essay #4 — Natural OOD vs. Adversarial Deferral
@@ -408,6 +430,7 @@ The series currently explores:
 ├── #6/
 ├── #7/
 ├── #8/
+├── #9/
 ├── docs/
 ├── data/
 ├── .gitattributes
