@@ -96,13 +96,13 @@ If you are new to the series, I recommend reading the essays in order:
 8. **Essay #7** — *Knowing the Weights: Four Bayesian Lenses on Uncertainty*  
    Published on Medium
 
-9. **Essay #8** — *Does the model know where it looks?*
+9. **Essay #8** — *Does the model know where it looks?*  
    Published on Medium
 
-10. **Essay #9** _ *Confidently wrong: The human cost of silent failure* 
+10. **Essay #9** _ *Confidently wrong: The human cost of silent failure*  
    Published on Medium
 
-11. **Essay #10** _ 
+11. **Essay #10** _  
    Planned
 
 ---
