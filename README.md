@@ -102,8 +102,11 @@ If you are new to the series, I recommend reading the essays in order:
 10. **Essay #9** _ *Confidently wrong: The human cost of silent failure*  
    Published on Medium
 
-11. **Essay #10** _  
-   Planned
+11. **Essay #10** _ *The Shape of the Silence*    
+   In Progress
+
+12. **Esay #11** _ *Planned*  
+   Planed
 
 ---
 
@@ -332,13 +335,13 @@ Eight essays later, the question has become more precise:
 
 ---
 
-### Essay #10 _ *Planned*
+### Essay #10 _ *The Shape of the Silence* - In Progress
 
-Planned future direction.
+Essay #10 asks the generalization question:
 
-This part of serries will explore What would it mean for a system to be honest about its own vulnerability?
+> If an attacker knows how a model measures its own hesitation, can that hesitation always be suppressed?
 
-**Status:**  Planned
+**Status:**  In Progresss
 
 ---
 ## Selected Experimental Results
@@ -431,6 +434,7 @@ The series currently explores:
 ├── #7/
 ├── #8/
 ├── #9/
+├── #10/
 ├── docs/
 ├── data/
 ├── .gitattributes
