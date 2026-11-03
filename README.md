@@ -103,10 +103,10 @@ If you are new to the series, I recommend reading the essays in order:
    Published on Medium
 
 11. **Essay #10** _ *The Shape of the Silence*    
-   In Progress
+   Published on Medium
 
-12. **Esay #11** _ *Planned*  
-   Planed
+12. **Essay #11** _ *What the Warning Owes*  
+   In progress
 
 ---
 
