@@ -102,11 +102,13 @@ If you are new to the series, I recommend reading the essays in order:
 10. **Essay #9** _ *Confidently wrong: The human cost of silent failure*  
    Published on Medium
 
-11. **Essay #10** _ *The Shape of the Silence*    
+11. **Essay #10** _ *The Shape of the Silence*   
    Published on Medium
 
 12. **Essay #11** _ *What the Warning Owes*  
    In progress
+
+13. **Capstone** _ Planned
 
 ---
 
@@ -335,13 +337,36 @@ Eight essays later, the question has become more precise:
 
 ---
 
-### Essay #10 _ *The Shape of the Silence* - In Progress
+### Essay #10 _ *The Shape of the Silence*
 
 Essay #10 asks the generalization question:
 
-> If an attacker knows how a model measures its own hesitation, can that hesitation always be suppressed?
+The question is not whether every mechanism produces the same numerical gap. 
+
+> It is whether apparently useful uncertainty remains useful after its definition becomes part of the attack.
+
+📖 **Article** 
+[Read on Medium](https://medium.com/@maedeh.torkian/the-shape-of-the-silence-461c49a3c8a6)
+
+**Notebook**
+- [Essay #10 Notebook](https://github.com/Maee127/Adversarial-Notebooks/blob/master/%2310/Notebook-%2310.ipynb)
+
+---
+
+### Essay #11 _ *What the Warning Owes* - In Progress
+
+> The Person on the Other Side
+
+Essay #10 measured the gate. It did not measure the *person the gate was built for*.
 
 **Status:**  In Progresss
+
+**Notebook**
+- [Essay #10 Notebook](https://github.com/Maee127/Adversarial-Notebooks/blob/master/%2311/Notebook%2311.ipynb)
+
+---
+
+### Capstone _ Planned
 
 ---
 ## Selected Experimental Results
@@ -435,6 +460,8 @@ The series currently explores:
 ├── #8/
 ├── #9/
 ├── #10/
+├── #11/
+├── #12/
 ├── docs/
 ├── data/
 ├── .gitattributes
